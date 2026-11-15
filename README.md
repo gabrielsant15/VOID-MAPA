@@ -2,7 +2,7 @@
 
 Painel interativo de monitoramento de ciberameaças em tempo real construído 100% em **Python**, inspirado em centros de operações de segurança (SOC) modernos.
 
-### 🌐 Acesse o painel ao vivo: [void-mapa.streamlit.app](https://streamlit.app)
+### 🌐 Acesse o painel ao vivo: [https://void-mapa.streamlit.app/]
 
 ## 🚀 Modos de Operação
 
