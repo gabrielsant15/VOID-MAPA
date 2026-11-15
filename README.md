@@ -2,6 +2,8 @@
 
 Painel interativo de monitoramento de ciberameaças em tempo real construído 100% em **Python**, inspirado em centros de operações de segurança (SOC) modernos.
 
+### 🌐 Acesse o painel ao vivo: [void-mapa.streamlit.app](https://streamlit.app)
+
 ## 🚀 Modos de Operação
 
 O **VOID MAP** conta com 3 fontes de dados selecionáveis direto na interface:
